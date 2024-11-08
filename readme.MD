@@ -11,12 +11,12 @@ For this assignment i have created a QR code that will navigate to my home page 
 
 1. QR code for my profile is below mentioned
 
-![Yaminichv git profile](./ouput_image/QRCode_20241103073216.png)
+![Yaminichv git profile](./QRCode_20241108065147.png)
 
 
 2. the log of successfully creating the QR code below.
 
-![Log of Output](/ouput_image/output.png)
+![Log of Output](./image.png)
 
 
 ### Building the Image
